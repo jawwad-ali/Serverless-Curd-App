@@ -1,0 +1,35 @@
+.heading-div {
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Lato';
+    font-size: 50px;
+    letter-spacing: 0.5px;
+    word-spacing: 10px;
+}
+
+.form-container {
+    margin: 0 auto;
+}
+
+.data-left-div {
+    width: 90%;
+}
+
+hr {
+    width: 100%;
+    background-color: silver;
+}
+
+.cross-icon {
+    font-size: 25px !important;
+    cursor: pointer;
+    color: red;
+}
+
+.edit-icon {
+    font-size: 25px !important;
+    cursor: pointer;
+    color: rgb(209, 212, 10);
+}
