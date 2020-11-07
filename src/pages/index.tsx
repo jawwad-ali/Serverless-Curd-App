@@ -77,7 +77,7 @@ export default function Home() {
 
   return (
     <div>
-      <div className="container-fluid ">
+      <div className="container-fluid">
         <div className="text-center bg-primary py-2 text-white heading-div">
           <h1 className="text-uppercase">Serverless Crud App</h1>
         </div>
@@ -108,7 +108,6 @@ export default function Home() {
                     <div className="data-lef-div">
                       <HighlightOffIcon className="icon cross-icon" onClick={() => handleDelete(mark.id)}
                       />
-                      <EditIcon className="icon edit-icon" />
                     </div>
                   </div>
                   <hr />
